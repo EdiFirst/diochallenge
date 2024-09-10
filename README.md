@@ -30,4 +30,5 @@ An automation approach should be very welcome, and we have some options to make 
 
 On the folder assets/result I share a video demonstrating the resul:
 
-![Copilot Show:](assets\result\Demo.mp4)
+![Copilot Show: ]()
+<video src="assets/result/Demo.mp4" width="320" height="240" controls></video>
