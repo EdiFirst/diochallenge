@@ -28,6 +28,6 @@ An automation approach should be very welcome, and we have some options to make 
 
 - Make use of some Low-Code / No-Code service like [**Microsoft Power Apps**] (https://make.powerapps.com/);
 
-On the folder assets/result I share a video demonstrating the result.
+On the folder assets/result I share a video demonstrating the resul:
 
-
+![Copilot Show:](assets\result\Demo.mp4)
